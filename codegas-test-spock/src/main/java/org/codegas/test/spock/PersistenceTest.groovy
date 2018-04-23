@@ -6,6 +6,9 @@ import spock.lang.Specification
 
 import javax.inject.Inject
 
+/**
+ * Base class of all Tests that use JPA for persistence
+ */
 @ContextConfiguration(["classpath*:META-INF/spring/test-context.xml"])
 abstract class PersistenceTest extends Specification {
 
