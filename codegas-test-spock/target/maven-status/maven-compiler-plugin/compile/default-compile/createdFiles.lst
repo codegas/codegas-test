@@ -1,0 +1,5 @@
+org/codegas/test/spock/EntityPersistenceTest.class
+org/codegas/test/spock/ApplicationServiceTest.class
+org/codegas/test/spock/RepositoryImplPersistenceTest.class
+org/codegas/test/spock/PersistenceTest.class
+org/codegas/test/spock/IntegrationTest.class
